@@ -6,3 +6,4 @@ Something happened
 Hello again !
 
 Making changes
+for GitBash
